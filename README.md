@@ -1,0 +1,2 @@
+# CoinMan
+Includes LibGdx framework
